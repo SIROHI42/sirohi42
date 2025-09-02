@@ -1,60 +1,60 @@
-<!-- Profile Header -->
-<h1 align="center">🤖 Hi, I'm Himanshu</h1>
-<h3 align="center">Data Analyst | AI & Machine Learning | Generative AI | Power BI | Python | SQL</h3>
+<h1 align="center">👋 Hi, I'm Himanshu</h1>
+<h3 align="center">Data Analyst | AI & ML | Generative AI | Power BI | Python | SQL</h3>
 
-<img align="right" alt="AI Avatar" width="250" src="https://i.imgur.com/0Z8FDrt.gif"/>  
+<img align="right" alt="AI Avatar" width="250" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4"/>
 
 ---
 
-### 🧑‍💻 About Me  
-- 🚀 Data Analyst turning **data into business intelligence & AI-powered insights**  
-- 📊 Skilled in **Python, SQL, Power BI, ETL Pipelines & Data Warehousing**  
-- 🤖 Exploring **Generative AI, LangChain, Hugging Face & LLMs**  
-- 🔮 Focused on **Predictive Modeling & Real-time Dashboards**  
-- 💡 Always learning & contributing to **AI + Analytics projects**  
+### 🚀 About Me  
+- Turning data into **business intelligence & AI-powered insights**  
+- Skilled in **Python, SQL, Power BI, ETL Pipelines & Data Warehousing**  
+- Exploring **Generative AI, LangChain, Hugging Face & LLMs**  
+- Focused on **Predictive Modeling & Real-time Dashboards**  
+- Always learning & contributing to **AI + Analytics projects**  
+
+---
+
+### 📌 Featured Projects  
+- **📊 Power BI Real-time Dashboard** – Business KPIs, Sales Insights  
+- **🤖 Predictive Modeling with ML** – Forecasting trends via Scikit-learn  
+- **📈 Donchian Channel Trading Bot** – Python + yFinance + Backtesting  
+- **🍎 Generative AI Nutrition Planner** – LangChain + Hugging Face  
+- **⚡ ETL Data Pipeline** – Automated data cleaning & transformation  
 
 ---
 
 ### 🛠️ Tech & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github,mysql,postgresql,azure,aws,vscode&perline=8"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-2E77BC?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-1D9BF0?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLMs-LangChain-blue?style=for-the-badge&logo=chainlink"/>
-  <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects  
-📊 **Power BI Real-time Dashboard** – Business KPIs, Sales Insights  
-🔮 **Predictive Modeling with ML** – Forecasting trends using Scikit-learn  
-📈 **Donchian Channel Trading Bot** – Python + yFinance + Backtesting  
-🧠 **Generative AI Nutrition Planner** – LangChain + Hugging Face Models  
-📂 **ETL Data Pipeline** – Automated cleaning & transformation with Python  
 
 ---
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://himanshu-portfolio.com"><img src="https://skillicons.dev/icons?i=react"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/himanshu-sirohi-02a941367/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.himanshusirohi41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SIROHI42">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
