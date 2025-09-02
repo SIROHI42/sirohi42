@@ -17,10 +17,11 @@
 
 ### 🛠️ Tech & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,git,github,tensorflow,pytorch,mysql,postgresql,azure,aws,docker,vscode&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github,mysql,postgresql,azure,aws,vscode&perline=8"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/LLMs-LangChain-blue?style=for-the-badge&logo=chainlink"/>
   <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
