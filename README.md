@@ -19,7 +19,7 @@
 - **📊 Power BI Real-time Dashboard** – Business KPIs, Sales Insights  
 - **🤖 Predictive Modeling with ML** – Forecasting trends via Scikit-learn  
 - **📈 Donchian Channel Trading Bot** – Python + yFinance + Backtesting  
-- **🍎 Generative AI SQL Analysis and wikipedia llm project** – LangChain + Hugging Face  
+- **🍎 Generative AI SQL Analysis and wikipedia llm project** – LangChain + Hugging Face + RAG  
 - **⚡ ETL Data Pipeline** – Automated data cleaning & transformation  
 
 ---
