@@ -14,7 +14,8 @@
 
 ---
 
-### 📌 Featured Projects  
+### 📌 Featured Projects
+- **⚡ Machine Learning** – Supervised Machine Learning, Unsupervised Machine Learning
 - **📊 Power BI Real-time Dashboard** – Business KPIs, Sales Insights  
 - **🤖 Predictive Modeling with ML** – Forecasting trends via Scikit-learn  
 - **📈 Donchian Channel Trading Bot** – Python + yFinance + Backtesting  
