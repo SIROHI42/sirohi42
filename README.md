@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-2E77BC?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-1D9BF0?style=for-the-badge&logo=openai&logoColor=white"/>
+   <img src="[https://img.shields.io/badge/Generative%20AI-1D9BF0?style=for-the-badge&logo=openai&logoColor=white"](https://www.google.com/imgres?q=pandas%20library%20png&imgurl=https%3A%2F%2Ficon.icepanel.io%2FTechnology%2Fsvg%2FPandas.svg&imgrefurl=https%3A%2F%2Ftechicons.dev%2Ficons%2Fpandas&docid=RgVpK7VvWvnBuM&tbnid=inoSGKbjdFtL2M&vet=12ahUKEwiR8_ivt92PAxU6zTgGHXV-CfAQM3oECBcQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiR8_ivt92PAxU6zTgGHXV-CfAQM3oECBcQAA)/>
 </p>
 
 ---
