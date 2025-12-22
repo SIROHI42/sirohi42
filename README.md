@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Himanshu</h1>
-<h3 align="center">Data Analyst | AI & ML | Generative AI | Power BI | Python | SQL</h3>
+<h3 align="center">AI/ML engineer | AI & ML | Generative AI | Agentic AL workflows | Python | SQL</h3>
 
 <img align="right" alt="AI Avatar" width="250" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4"/>
 
@@ -8,7 +8,7 @@
 ### 🚀 About Me  
 - Turning data into **business intelligence & AI-powered insights**  
 - Skilled in **Python, SQL, Power BI, ETL Pipelines & Data Warehousing**  
-- Exploring **Generative AI, LangChain, Hugging Face & LLMs**  
+- Exploring **Generative AI, LangChain, Hugging Face & LLMs and LangGraph | Agentic Workflow**  
 - Focused on **Predictive Modeling & Real-time Dashboards**  
 - Always learning & contributing to **AI + Analytics projects**  
 
@@ -19,7 +19,7 @@
 - **📊 Power BI Real-time Dashboard** – Business KPIs, Sales Insights  
 - **🤖 Predictive Modeling with ML** – Forecasting trends via Scikit-learn  
 - **📈 Donchian Channel Trading Bot** – Python + yFinance + Backtesting  
-- **🍎 Generative AI SQL Analysis and wikipedia llm project** – LangChain + Hugging Face + RAG  
+- **🍎 Generative AI SQL Analysis and wikipedia llm project** – LangChain + Hugging Face + RAG + Agentic AI 
 - **⚡ ETL Data Pipeline** – Automated data cleaning & transformation  
 
 ---
