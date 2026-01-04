@@ -71,17 +71,6 @@ src="https://avatars.githubusercontent.com/u/9919?s=280&v=4"/>
 <img src="https://img.shields.io/badge/MCP%20Server-000000?style=for-the-badge"/>
 </p>
 
----
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIROHI42&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIROHI42&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌐 Connect with Me  
 <p>
 <a href="https://www.linkedin.com/in/himanshu-sirohi-02a941367/" target="_blank">
